@@ -9,3 +9,32 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.pers-move-right {
+    margin-left: auto;
+}
+
+.pers-bg-gray {
+    background: rgb(214, 214, 214);
+}
+
+.pers-footer-bg {
+    background: #6C757D;
+}
+
+.pers-bg-img-jumbotron {
+  background-image: url('../img/hamster-meditate.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  box-shadow: #6C757D 0px 4px 8px;
+  text-shadow: 1px 1px 3px black
+}
+
+.pers-shadow {
+    box-shadow: #6C757D 0px 4px 8px;
+}
+
+.pers-shadow-none {
+    text-shadow: none;
+}
+
